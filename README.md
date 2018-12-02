@@ -3,6 +3,7 @@
 Repo of useful Python examples
 
 - [Code-Profiling](https://github.com/richardangell/Python-Examples/blob/master/Code-Profiling.ipynb) shows different ways of using [line_profiler](https://github.com/rkern/line_profiler#line-profiler) to profile the line by line runtime of Python
+- [Cost-Sensitive-Classification](https://github.com/richardangell/Python-Examples/blob/master/Cost-Sensitive-Classification.ipynb) shows 3 different ways of approaching a binary classification task with unequal costs for misclassification, using [LightGBM](https://github.com/Microsoft/LightGBM)
 - [Dominant-Image-Colours-K-Means](https://github.com/richardangell/Python-Examples/blob/master/Dominant-Image-Colours-K-Means.ipynb) shows an example of using [k-means](https://en.wikipedia.org/wiki/K-means_clustering) to find the dominant colours in an image, inspired by this [repo](https://github.com/ZeevG/python-dominant-image-colour)
 - [Progress-Bars](https://github.com/richardangell/Python-Examples/blob/master/Progress-Bars.ipynb) shows several ways of tracking an iterative process in Python, code taken from this [tweet](https://mobile.twitter.com/kondrej/status/1042674734608068608/) from [Ondřej Kokeš](https://mobile.twitter.com/kondrej)
 - [py-earth-Example](https://github.com/richardangell/Python-Examples/blob/master/py-earth-Example.ipynb) builds a [MARS](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_splines) model in [py-earth](https://github.com/scikit-learn-contrib/py-earth) and plots model coefficients
